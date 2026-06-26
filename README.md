@@ -1,12 +1,12 @@
 # Ben Moffat
 
-I'm a commercial operator who builds software.
+I'm a product-minded operator who builds software.
 
-By day, I work in Product Partnerships at [Crezco](https://crezco.com), a B2B fintech. I help software partners launch and grow embedded payments, working across implementation, activation and expansion.
+My work sits between customers, product and delivery. I've worked mostly in fintech and B2B software, taking products and partnerships from setup through to launch, adoption and growth.
 
-Outside work, I build and ship products. Since 2020, I've released iOS, Android and web apps with real users. That has made me better at working with product and engineering teams because I understand the trade-offs behind a shipped product, not just the commercial outcome.
+Outside work, I build and ship my own products. Since 2020, I've released iOS, Android and web apps with real users. That has made me better at product work because I understand what happens between an idea, a first version, a live product and customer feedback.
 
-I tend to be useful where the problem is messy: map the customer journey, find the drop-off, work out what needs fixing, then help ship the first version.
+I'm most interested in practical product work, AI strategy and hands-on AI implementation. I like working close to users, testing quickly, and turning loose problems into something buildable.
 
 ## Building now
 
@@ -28,8 +28,8 @@ I tend to be useful where the problem is messy: map the customer journey, find t
 
 ## What I work on
 
-- B2B fintech and embedded payments
-- Product partnerships and partner-led growth
-- Activation funnels and onboarding
-- AI-native products and agent workflows
-- Small products that solve real workflow problems
+- Product work close to users
+- Fintech
+- AI strategy and implementation
+- Customer onboarding and adoption
+- Building small products from first version to live users
