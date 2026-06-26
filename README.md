@@ -1,12 +1,12 @@
 # Ben Moffat
 
-I'm a product-minded operator who builds software.
+I'm a high-agency generalist with commercial experience, technical context and a bias towards product work.
 
-My work sits between customers, product and delivery. I've worked mostly in fintech and B2B software, taking products and partnerships from setup through to launch, adoption and growth.
+I've worked mostly in fintech, across partnerships, customer success and product-adjacent roles. The common thread has been getting products live, improving adoption, and turning customer feedback into better product decisions.
 
-Outside work, I build and ship my own products. Since 2020, I've released iOS, Android and web apps with real users. That has made me better at product work because I understand what happens between an idea, a first version, a live product and customer feedback.
+Outside work, I build and ship my own products. Since 2020, I've released iOS, Android and web apps with real users. Teaching myself to code has changed how I work: I think more clearly about scope, trade-offs, user feedback and what it takes to get from an idea to something people use.
 
-I'm most interested in practical product work, AI strategy and hands-on AI implementation. I like working close to users, testing quickly, and turning loose problems into something buildable.
+I'm most interested in product, AI strategy and hands-on AI implementation. I like working close to users, testing quickly, and using software to turn unclear workflows into useful products.
 
 ## Building now
 
@@ -26,7 +26,7 @@ I'm most interested in practical product work, AI strategy and hands-on AI imple
 - [code-first-design](https://github.com/bmoff/code-first-design) - Notes and patterns for component-driven design and development in Next.js
 - [cursor-rules-collection](https://github.com/bmoff/cursor-rules-collection) - Cursor rules for AI-assisted development workflows
 
-## What I work on
+## What I'm interested in
 
 - Product work close to users
 - Fintech
