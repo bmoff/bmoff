@@ -1,7 +1,5 @@
 # Ben Moffat
 
-# Ben Moffat
-
 Hey everyone, I’m Ben.
 
 I’m a bit of a generalist. Most of my day-job experience has been in product partnerships and commercial roles, but I love building my own products in my spare time.
