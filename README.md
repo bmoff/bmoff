@@ -1,12 +1,12 @@
 # Ben Moffat
 
-I'm a high-agency generalist with commercial experience, technical context and a bias towards product work.
+I'm a high-agency generalist with a mix of commercial and technical experience.
 
-I've worked mostly in fintech, across partnerships, customer success and product-adjacent roles. The common thread has been getting products live, improving adoption, and turning customer feedback into better product decisions.
+I've spent most of my career working close to customers in fintech and B2B software. I like understanding what people are trying to do, where they get stuck, and how the product or process could be better.
 
-Outside work, I build and ship my own products. Since 2020, I've released iOS, Android and web apps with real users. Teaching myself to code has changed how I work: I think more clearly about scope, trade-offs, user feedback and what it takes to get from an idea to something people use.
+Outside work, I build and ship my own products. Since 2020, I've released iOS, Android and web apps with real users. I'm not a software engineer by background, but teaching myself to code has made me much better at working with product and engineering teams.
 
-I'm most interested in product, AI strategy and hands-on AI implementation. I like working close to users, testing quickly, and using software to turn unclear workflows into useful products.
+I'm especially interested in product, AI strategy and practical AI implementation. I like working close to users and helping them solve real problems.
 
 ## Building now
 
